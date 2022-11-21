@@ -1,0 +1,17 @@
+export default {
+	mainBg: '#193247',
+	headerBg: '#193247',
+	containerBg: '#f4ddb5',
+	buttonBg: '#d44932',
+	buttonText: '#ffffff',
+	searchBg: '#193247',
+	searchInputText: '#fdf2dd',
+	actionText: '#193247',
+	tableRowBg: '#fdf2dd',
+	tableRowText: '#606060',
+	tableRowSelected: '#d14b39',
+	tableRowSelectedText: '#ffffff',
+	dropdownBg: '#1b2f4a',
+	dropdownItemBg: '#fef3db',
+	loader: '#193247',
+};
